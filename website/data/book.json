@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A social media-obsessed traveler is trampled to death when a false fire alarm triggers a stampede in an overcrowded hostel common room during a World Cup screening.",
     "long": ""
   },
   "death_type": "Stampede",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "When the crowd moves, you move. Or you don't move again."
 }
